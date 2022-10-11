@@ -8,3 +8,4 @@ Hypothesis Testing assignment Datasets
 [Salary_Data (1).csv](https://github.com/HEMANT2008/Assignments-Code/files/9732426/Salary_Data.1.csv)
 [ToyotaCorolla.csv](https://github.com/HEMANT2008/Assignments-Code/files/9753601/ToyotaCorolla.csv)
 [50_Startups.csv](https://github.com/HEMANT2008/Assignments-Code/files/9753602/50_Startups.csv)
+[bank-full.csv](https://github.com/HEMANT2008/Assignments-Code/files/9758693/bank-full.csv)
