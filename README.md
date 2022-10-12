@@ -9,3 +9,5 @@ Hypothesis Testing assignment Datasets
 [ToyotaCorolla.csv](https://github.com/HEMANT2008/Assignments-Code/files/9753601/ToyotaCorolla.csv)
 [50_Startups.csv](https://github.com/HEMANT2008/Assignments-Code/files/9753602/50_Startups.csv)
 [bank-full.csv](https://github.com/HEMANT2008/Assignments-Code/files/9758693/bank-full.csv)
+[crime_data.csv](https://github.com/HEMANT2008/Assignments-Code/files/9767902/crime_data.csv)
+[EastWestAirlines.xlsx](https://github.com/HEMANT2008/Assignments-Code/files/9767903/EastWestAirlines.xlsx)
