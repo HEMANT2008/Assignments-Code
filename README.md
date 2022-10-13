@@ -13,3 +13,4 @@ Hypothesis Testing assignment Datasets
 [EastWestAirlines.xlsx](https://github.com/HEMANT2008/Assignments-C[Clustering.csv](https://github.com/HEMANT2008/Assignments-Code/files/9775309/Clustering.csv)
 ode/files/9767903/EastWestAirlines.xlsx)
 [Clustering.csv](https://github.com/HEMANT2008/Assignments-Code/files/9775312/Clustering.csv)
+[wine.csv](https://github.com/HEMANT2008/Assignments-Code/files/9777776/wine.csv)
