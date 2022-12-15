@@ -35,3 +35,5 @@ Code/files/9786289/negative-words.txt)
 [Crop_recommendation.csv](https://github.com/HEMANT2008/Assignments-Dataset/files/10034451/Crop_recommendation.csv)
 [Gold_data.csv](https://github.com/HEMANT2008/Assignments-Dataset/files/10038702/Gold_data.csv)
 
+[test.csv](https://github.com/HEMANT2008/Assignments-Dataset/files/10235247/test.csv)
+[train.csv](https://github.com/HEMANT2008/Assignments-Dataset/files/10235248/train.csv)
