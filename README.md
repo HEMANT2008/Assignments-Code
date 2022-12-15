@@ -34,5 +34,4 @@ Code/files/9786289/negative-words.txt)
 [Elon_musk.csv](https://github.com/HEMANT2008/Assignments-Code/files/9927461/Elon_musk.csv)
 [Crop_recommendation.csv](https://github.com/HEMANT2008/Assignments-Dataset/files/10034451/Crop_recommendation.csv)
 [Gold_data.csv](https://github.com/HEMANT2008/Assignments-Dataset/files/10038702/Gold_data.csv)
-[train_data.csv](https://github.com/HEMANT2008/Assignments-Dataset/files/10043968/train_data.csv)
-[test_data.csv](https://github.com/HEMANT2008/Assignments-Dataset/files/10043973/test_data.csv)
+
